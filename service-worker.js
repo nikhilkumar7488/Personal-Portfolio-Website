@@ -1,7 +1,7 @@
 const CACHE_NAME = 'my-site-cache-v1';
 const urlsToCache = [
   '/',
-  'styles/main.css',
+  'style.css',
   'scripts/main.js',
   'images/logo.png'
 ];
